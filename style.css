@@ -10,11 +10,12 @@ html, body{
     height:100%;
     background-color: black;
     font-family: scratchPixel;
+    color:white;
 }
 
 .escape-h{
     width:100%;
-    height:40vh;
+    height:30vh;
     display:flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -23,6 +24,10 @@ html, body{
 
 .red{
     color:red;
+}
+
+.idk{
+    text-align:center;
 }
 
 
