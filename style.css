@@ -11,6 +11,7 @@ html, body{
     background-color: black;
     font-family: scratchPixel;
     color:white;
+    text-decoration-color: red;
 }
 
 .escape-h{
@@ -22,12 +23,20 @@ html, body{
     align-items: center;
 }
 
+.escape-t{
+    width:40%;
+}
+
 .red{
     color:red;
 }
 
 .idk{
     text-align:center;
+}
+
+.sub-lg{
+    font-size:2vw;
 }
 
 hr {
@@ -47,13 +56,40 @@ hr {
 .column h2 {
     width:75%;
     margin:12.5%;
+    margin-bottom:2vw;
+    margin-top:0;
+}
+
+.column h1 {
+    width:75%;
+    margin:12.5%;
+    margin-bottom:2vw;
+    margin-top:0;
 }
 
 .column img {
     width:75%;
     margin:12.5%;
+    margin-bottom:2vw;
+    margin-top:0;
 }
 
 .wh {
     color:white;
+}
+
+.big{
+    font-size:4vw;
+}
+
+h2{
+    font-size:2vw;
+}
+
+a{
+    text-decoration-color: red;
+}
+
+a:hover{
+    text-decoration-color: lime;
 }
