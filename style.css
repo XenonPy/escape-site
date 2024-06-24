@@ -30,4 +30,30 @@ html, body{
     text-align:center;
 }
 
+hr {
+    background-color: white;
+}
 
+.row {
+    display: flex;
+    align-items:center;
+    max-width: 100%;
+  }
+
+.column {
+    flex: 50%;
+}
+
+.column h2 {
+    width:75%;
+    margin:12.5%;
+}
+
+.column img {
+    width:75%;
+    margin:12.5%;
+}
+
+.wh {
+    color:white;
+}
